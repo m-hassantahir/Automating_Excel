@@ -1,5 +1,4 @@
-# Automating_Excel
-Automated Excel Spreadsheet Price Reduction and Visualization
+# Automated Excel Spreadsheet Price Reduction and Visualization
 This project automates a price reduction workflow on an Excel spreadsheet with three columns: transaction_id, product_id, and price. It implements the following functionalities:
 1. 10% Price Reduction: Applies a 10% discount to each product's price using a formula.
 2. Data Manipulation:
